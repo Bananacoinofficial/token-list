@@ -1,0 +1,11 @@
+{
+  "name": "Banana",
+  "symbol": "BANANA",
+  "decimals": 9,
+  "address": "D46Lo9caSyrqkUp46WN5tsuJK7wyPm1h1rD69PbcL31",
+  "logoURI": "https://raw.githubusercontent.com/Bananacoinofficial/token-list/main/assets/banana.png",
+  "tags": ["meme"],
+  "extensions": {
+    "description": "We’re just a bunch of monkeys stacking bananas on Solana. Join the jungle. Banana to the Moon."
+  }
+}
